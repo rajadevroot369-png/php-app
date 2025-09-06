@@ -1,5 +1,5 @@
 <?php
-$phnum = "8610131863"; // your mobile number
+$phnum = "8610131860"; // your mobile number
 
 $url = "https://api.mycii.in/Signup/SendOTPNewUser?Username=null&mobile=" . urlencode($phnum);
 
